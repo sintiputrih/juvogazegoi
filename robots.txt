@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://juvogazegoi.pages.dev/sitemap.xml
